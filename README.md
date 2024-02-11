@@ -1,4 +1,4 @@
-### Hi there 👋, John Gahagan
+John Gahagan
 #### Undergraduate Computer Science Student
 
 
