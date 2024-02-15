@@ -4,7 +4,7 @@ John Gahagan
 
 I am Johnny and I currently an undergraduate computer science student at WKU. I enjoy building,learning, and coding things especially concepts that are new to me. My most recent things I am learning are REACT and TailwindCSS! I am also interested in jobs or internships feel free to contact me https://www.linkedin.com/in/john-gahagan-aa99a91b7/ or john.gahagan3@gmail.com
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Java / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on updating my personal website with newly learned technoliges like REACT and Tailwind CSS 
 - 🌱 I’m currently learning React, Tailwind CSS, Discrete Math 
