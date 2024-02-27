@@ -7,7 +7,7 @@ I am Johnny and I currently an undergraduate computer science student at WKU. I 
 Skills: Java / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on updating my personal website with newly learned technoliges like REACT and Tailwind CSS 
-- 🌱 I’m currently learning React, Tailwind CSS, Discrete Math 
+- 🌱 I’m currently learning ASP.NET!
 - 🤔 I’m looking for help with internships! 
 - 📫 How to reach me: john.gahagan3@gmail.com or https://www.linkedin.com/in/john-gahagan-aa99a91b7/ 
 
