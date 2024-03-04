@@ -2,7 +2,7 @@ John Gahagan
 #### Undergraduate Computer Science Student
 
 
-I am Johnny and I currently an undergraduate computer science student at WKU. I enjoy building,learning, and coding things especially concepts that are new to me. My most recent things I am learning are .NET! I am also interested in jobs or internships feel free to contact me @https://www.linkedin.com/in/john-gahagan-aa99a91b7/ or john.gahagan3@gmail.com
+I am Johnny and I currently an undergraduate computer science student at WKU. I enjoy building,learning, and coding things especially concepts that are new to me. My most recent things I am learning are .NET! I am also interested in jobs or internships feel free to contact me @https://www.linkedin.com/in/john-gahagan-aa99a91b7/ or john.gahagan3@gmail.com. Look at my portfoilo site https://www.johngahagan.dev/!
 
 Skills: Java / REACT / JS / HTML / CSS
 
