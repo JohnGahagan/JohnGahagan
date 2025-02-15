@@ -2,13 +2,13 @@ John Gahagan
 #### Undergraduate Computer Science Student
 
 
-Hey! I am Johnny and I currently an undergraduate computer science student at WKU. I enjoy building,learning, and coding things especially concepts that are new to me. My most recent thing I am learning more about is Python! I am also interested in jobs or internships related to technology, feel free to contact me https://www.linkedin.com/in/john-gahagan-aa99a91b7/ or john.gahagan3@gmail.com. Look at my portfolio site I made with REACT: https://www.johngahagan.dev/
+Hey! I am Johnny and I currently an undergraduate computer science student at WKU graduating in May 2025. I enjoy building,learning, and coding things especially concepts that are new to me. My most recent thing I am learning more about is C++ and its applications to IoT! I am also interested in jobs or internships related to technology, feel free to contact me https://www.linkedin.com/in/john-gahagan-aa99a91b7/ or john.gahagan3@gmail.com. Look at my portfolio site I made with REACT: https://www.johngahagan.dev/
 
 Skills: Java / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently focused on deepening my understanding of implementing data structures and algorithms in real-world scenarios, particularly using Python. This involves studying Competitive Programming in Python: 128 Algorithms to Develop Your Coding Skills by Christoph Dürr and Jill-Jenn Vie."
 - 🌱 I’m currently learning Python!
-- 🤔 I’m looking for help with internships! 
+- 🤔 I’m looking for help with entry level roles! 
 - 📫 How to reach me: john.gahagan3@gmail.com or https://www.linkedin.com/in/john-gahagan-aa99a91b7/ 
 
 
