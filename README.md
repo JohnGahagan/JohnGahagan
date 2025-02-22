@@ -6,7 +6,7 @@ Hey! I am Johnny and I currently an undergraduate computer science student at WK
 
 Skills: Java / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently focused on deepening my understanding of implementing data structures and algorithms in real-world scenarios, particularly using Python. This involves studying Competitive Programming in Python: 128 Algorithms to Develop Your Coding Skills by Christoph Dürr and Jill-Jenn Vie."
+- 🔭 I’m currently focused on deepening my understanding of implementing data structures and algorithms in real-world scenarios, particularly using Python. This involves studying, "Competitive Programming in Python: 128 Algorithms to Develop Your Coding Skills by Christoph Dürr and Jill-Jenn Vie."
 - 🌱 I’m currently learning Python!
 - 🤔 I’m looking for help with entry level roles! 
 - 📫 How to reach me: john.gahagan3@gmail.com or https://www.linkedin.com/in/john-gahagan-aa99a91b7/ 
