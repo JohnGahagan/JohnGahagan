@@ -1,5 +1,5 @@
 John Gahagan
-#### Undergraduate Computer Science Student
+#### B.S. of Computer Science Completed
 
 
 Hello! I am Johnny and I currently just graduated with a undergraduate bachelor of science degree in computer science at WKU in May 2025. I enjoy building,learning, and coding things especially concepts that are new to me. My most recent thing I am learning more about is C++ and its applications to IoT! I am also interested in jobs or internships related to technology, feel free to contact me https://www.linkedin.com/in/john-gahagan-aa99a91b7/ or john.gahagan3@gmail.com. My portfolio site is: https://www.johngahagan.dev/
