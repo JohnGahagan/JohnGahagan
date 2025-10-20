@@ -1,18 +1,39 @@
-John Gahagan
-#### B.S. of Computer Science Completed
+# 👋 Hi, I'm John Gahagan
 
+I'm an **Embedded Software Tester** with a B.S. in Computer Science (WKU, May 2025).  
+I enjoy learning, building, and coding across different areas of software — especially when I'm exploring something new.
 
-Hello! I am Johnny and I currently just graduated with a undergraduate bachelor of science degree in computer science at WKU in May 2025. I enjoy building,learning, and coding things especially concepts that are new to me. My most recent thing I am learning more about is C++ and its applications to IoT! I am also interested in jobs or internships related to technology, feel free to contact me https://www.linkedin.com/in/john-gahagan-aa99a91b7/ or john.gahagan3@gmail.com. My portfolio site is: https://www.johngahagan.dev/
+Right now, I'm studying **Modern C++** with a focus on its use in **embedded systems and IoT**. I'm working through:
 
-Skills: Java / REACT / JS / HTML / CSS
+**_“C++ in Embedded Systems: A Practical Transition from C to Modern C++”_**  
+by Amar Mahmutbegovic
 
-- 🔭 I’m currently focused on deepening my understanding of implementing data structures and algorithms in real-world scenarios, particularly using Python. This involves studying, "Competitive Programming in Python: 128 Algorithms to Develop Your Coding Skills by Christoph Dürr and Jill-Jenn Vie."
-- 🌱 I’m currently learning Python!
-- 🤔 I’m looking for help with entry level roles! 
-- 📫 How to reach me: john.gahagan3@gmail.com or https://www.linkedin.com/in/john-gahagan-aa99a91b7/ 
+---
 
+## 🔧 Current Focus
+- Embedded systems & IoT
+- Modern C++
+- Improving low-level problem solving
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaviorFs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/john-gahagan-aa99a91b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/JohnGahagan/)  
+---
 
+## 🎓 Education
+**M.S. in Computer Science**
+Georgia Institute of Technology - Starting Spring 2026! (Remote, Part time)
+**B.S. in Computer Science**  
+Western Kentucky University — May 2025
 
+---
 
+## 📬 Contact
+- **Email:** john.gahagan3@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/john-gahagan-aa99a91b7  
+- **Portfolio:** https://www.johngahagan.dev
+
+---
+
+## 🌐 Profiles
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaviorFs)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/john-gahagan-aa99a91b7/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/JohnGahagan/)
