@@ -20,8 +20,7 @@ by Amar Mahmutbegovic
 ## 🎓 Education
 - **M.S. in Computer Science**
 Georgia Institute of Technology - Starting Spring 2026! (Remote, Part time)
-- **B.S. in Computer Science**  
-Western Kentucky University — May 2025
+- **B.S. in Computer Science**  - Western Kentucky University — May 2025 **Completed**
 
 ---
 
