@@ -3,10 +3,10 @@
 I'm an **Embedded Software Tester** with a B.S. in Computer Science (WKU, May 2025).  
 I enjoy learning, building, and coding across different areas of software — especially when I'm exploring something new.
 
-Right now, I'm studying **Modern C++** with a focus on its use in **embedded systems and IoT**. I'm working through:
+Right now, I'm studying **Operating Systems**. I'm working through:
 
-**_“C++ in Embedded Systems: A Practical Transition from C to Modern C++”_**  
-by Amar Mahmutbegovic
+**_“Operating Systems Three Easy Pieces”_**  
+by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 
 ---
 
