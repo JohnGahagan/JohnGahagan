@@ -1,39 +1,53 @@
 # 👋 Hi, I'm John Gahagan
 
-I'm an **Embedded Software Tester** with a B.S. in Computer Science (WKU, May 2025).  
+I'm an **Embedded Software Tester** with a B.S. in Computer Science (WKU, May 2025), now working on an M.S. in Computer Science at Georgia Tech.  
 I enjoy learning, building, and coding across different areas of software — especially when I'm exploring something new.
 
-Right now, I'm studying **Operating Systems**. I'm working through:
+---
 
-**_“Operating Systems Three Easy Pieces”_**  
-by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+## 🚁 What I'm Building
+
+**[fpv-devkit](https://github.com/SaviorFs/fpv-devkit)** — learning the open-source FPV flight stack on real hardware.
+
+I'm using a small whoop-class drone as a development kit: configuring it, flashing it, reading the firmware source, and changing it.
+
+- **Betaflight** — flight firmware (C on STM32)
+- **ExpressLRS** — radio link
+- **EdgeTX** — radio handset firmware
+- **ArduPilot / PX4** — autopilots, in simulation
+
+The repo holds my configs, flight logs, scripts, and notes for each stage.
+
+---
+
+## 📚 What I'm Studying
+
+Low-level software and hardware: operating systems, embedded firmware, and computer architecture.
 
 ---
 
 ## 🔧 Current Focus
-- Embedded systems & IoT
-- Modern C++
+- Embedded systems & flight control firmware
+- C and modern C++
+- Control loops, sensors, and radio links
 - Improving low-level problem solving
 
 ---
 
 ## 🎓 Education
-- **M.S. in Computer Science**
-Georgia Institute of Technology Starting Spring 2026! (Remote, Part time) **In Progress**
-- **B.S. in Computer Science**
-Western Kentucky University May 2025 **Completed**
+- **M.S. in Computer Science**  
+Georgia Institute of Technology — Spring 2026 to present (Remote, Part time) **In Progress**
+- **B.S. in Computer Science**  
+Western Kentucky University — May 2025 **Completed**
 
 ---
 
 ## 📬 Contact
 - **Email:** john.gahagan3@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/john-gahagan-aa99a91b7  
-- **Portfolio:** https://www.johngahagan.dev
 
 ---
 
 ## 🌐 Profiles
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaviorFs)  
+ 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/john-gahagan-aa99a91b7/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/JohnGahagan/)
