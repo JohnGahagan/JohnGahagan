@@ -7,7 +7,7 @@ I enjoy learning, building, and coding across different areas of software — es
 
 ## 🚁 What I'm Building
 
-**[fpv-devkit]((https://github.com/JohnGahagan/fpv-devkit))** — learning the open-source FPV flight stack on real hardware.
+**[fpv-devkit](https://github.com/JohnGahagan/fpv-devkit)** — learning the open-source FPV flight stack on real hardware.
 
 I'm using a small whoop-class drone as a development kit: configuring it, flashing it, reading the firmware source, and changing it.
 
